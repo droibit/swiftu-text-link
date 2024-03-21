@@ -17,7 +17,7 @@ let debugOtherSwiftFlags = [
 ]
 
 let package = Package(
-    name: "SampleApp",
+    name: "TextLinkSample",
     defaultLocalization: "en",
     platforms: [
         .iOS(.v17),
